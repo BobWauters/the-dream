@@ -1,0 +1,40 @@
+
+
+.form-container{
+
+    margin:auto;
+    size: 2rem;
+    align-items: center;
+    padding-top: 50px;
+    border: 2px solid black;
+}
+
+.query-input, .query-send, #search-query{
+    display: flex;
+    flex:1;
+    flex-direction: row;
+    padding:25px;
+    margin:auto;
+    text-align: center;
+
+}
+
+h3, h4, #dropdown-menu {
+    text-align: center;
+    margin:auto;
+}
+
+#dropdown-menu{
+    display:flex;
+    flex:1;
+    margin-top: 10px;
+}
+
+h1{
+    display: flex;
+    flex:1;
+    width: 150px;
+    height:300px;
+    margin:auto;
+    text-align: center;
+}
